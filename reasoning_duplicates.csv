@@ -1,0 +1,13 @@
+domain_label,dimension_norm,reasoning_norm,rows_in_cluster,sample_reasoning
+fintech,code_intentionality,github not submitted,55,github not submitted
+fintech,core_feature_presence,github not submitted,55,github not submitted
+fintech,implementation_authenticity,github not submitted,55,github not submitted
+fintech,stack_alignment,github not submitted,55,github not submitted
+healthcare,code_intentionality,github not submitted,154,github not submitted
+healthcare,core_feature_presence,github not submitted,154,github not submitted
+healthcare,implementation_authenticity,github not submitted,154,github not submitted
+healthcare,stack_alignment,github not submitted,154,github not submitted
+logistics,code_intentionality,github not submitted,68,github not submitted
+logistics,core_feature_presence,github not submitted,68,github not submitted
+logistics,implementation_authenticity,github not submitted,68,github not submitted
+logistics,stack_alignment,github not submitted,68,github not submitted

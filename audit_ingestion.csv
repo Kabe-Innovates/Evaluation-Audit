@@ -1,0 +1,4 @@
+domain_label,score_file,reasoning_file,score_rows,reasoning_rows,score_unique_teams,reasoning_unique_teams,unmatched_reasoning_rows
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,fintech_evaluation_output_20260419_110045 - Reasoning.csv,97,776,97,97,0
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,healthcare_evaluation_output_20260419_132600 - Reasoning.csv,260,2072,260,259,8
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,logistics_evaluation_output_20260419_133040 - Reasoning.csv,144,1144,144,143,24

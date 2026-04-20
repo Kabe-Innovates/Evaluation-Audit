@@ -1,0 +1,5 @@
+scope,rows_checked,mismatch_count
+fintech_evaluation_output_20260419_110045 - Scores.csv,97,0
+healthcare_evaluation_output_20260419_132600 - Scores.csv,258,0
+logistics_evaluation_output_20260419_133040 - Scores.csv,140,0
+COMBINED,495,0

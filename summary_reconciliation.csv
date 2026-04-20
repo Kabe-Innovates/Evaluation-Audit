@@ -1,0 +1,58 @@
+domain_label,score_file,metric_key,reported_metric,reported_value,expected_value,status
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,total_teams,Total Teams,97.0,97,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,successfully_evaluated,Successfully Evaluated,97.0,97,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,failed_evaluations,Failed Evaluations,0.0,0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,github_submissions,GitHub Submissions,42.0,42,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,ppt_mean,PPT Total — Mean,19.2,19.175257731958762,rounded_match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,ppt_min,PPT Total — Min,16.0,16.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,ppt_max,PPT Total — Max,20.0,20.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,github_mean,GitHub Total — Mean,15.2,15.214285714285714,rounded_match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,github_min,GitHub Total — Min,3.0,3.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,github_max,GitHub Total — Max,20.0,20.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,overall_mean,Overall Total — Mean,25.8,25.762886597938145,rounded_match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,overall_min,Overall Total — Min,16.0,16.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,overall_max,Overall Total — Max,40.0,40.0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,battle_rows_stored,Battle Rows Stored,0.0,0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,unique_matchups,Unique Matchups,0.0,0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,relative_scores_computed,Relative Scores Computed,0.0,0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,relative_score_mean,Relative Score — Mean,,N/A,mismatch
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,total_reconciliation_flags,Total Reconciliation Flags,0.0,0,match
+fintech,fintech_evaluation_output_20260419_110045 - Scores.csv,unresolved_flags,Unresolved Flags,0.0,0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,total_teams,Total Teams,260.0,260,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,successfully_evaluated,Successfully Evaluated,259.0,259,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,failed_evaluations,Failed Evaluations,1.0,1,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,github_submissions,GitHub Submissions,105.0,105,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,ppt_mean,PPT Total — Mean,18.4,18.399224806201552,rounded_match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,ppt_min,PPT Total — Min,12.0,12.0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,ppt_max,PPT Total — Max,20.0,20.0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,github_mean,GitHub Total — Mean,12.2,12.247619047619047,rounded_match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,github_min,GitHub Total — Min,0.0,0.0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,github_max,GitHub Total — Max,20.0,20.0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,overall_mean,Overall Total — Mean,23.3,23.38372093023256,rounded_match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,overall_min,Overall Total — Min,0.0,12.0,mismatch
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,overall_max,Overall Total — Max,40.0,40.0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,battle_rows_stored,Battle Rows Stored,0.0,0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,unique_matchups,Unique Matchups,0.0,0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,relative_scores_computed,Relative Scores Computed,0.0,0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,relative_score_mean,Relative Score — Mean,,N/A,mismatch
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,total_reconciliation_flags,Total Reconciliation Flags,0.0,0,match
+healthcare,healthcare_evaluation_output_20260419_132600 - Scores.csv,unresolved_flags,Unresolved Flags,0.0,0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,total_teams,Total Teams,144.0,144,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,successfully_evaluated,Successfully Evaluated,143.0,143,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,failed_evaluations,Failed Evaluations,1.0,1,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,github_submissions,GitHub Submissions,75.0,75,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,ppt_mean,PPT Total — Mean,19.1,19.05,rounded_match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,ppt_min,PPT Total — Min,12.0,12.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,ppt_max,PPT Total — Max,20.0,20.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,github_mean,GitHub Total — Mean,12.8,12.76,rounded_match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,github_min,GitHub Total — Min,4.0,4.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,github_max,GitHub Total — Max,20.0,20.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,overall_mean,Overall Total — Mean,25.3,25.342657342657343,rounded_match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,overall_min,Overall Total — Min,12.0,12.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,overall_max,Overall Total — Max,40.0,40.0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,battle_rows_stored,Battle Rows Stored,0.0,0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,unique_matchups,Unique Matchups,0.0,0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,relative_scores_computed,Relative Scores Computed,0.0,0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,relative_score_mean,Relative Score — Mean,,N/A,mismatch
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,total_reconciliation_flags,Total Reconciliation Flags,0.0,0,match
+logistics,logistics_evaluation_output_20260419_133040 - Scores.csv,unresolved_flags,Unresolved Flags,0.0,0,match
